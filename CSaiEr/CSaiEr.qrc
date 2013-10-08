@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/Saier.png</file>
+        <file>img/main.png</file>
+        <file>CSaiEr.ini</file>
+    </qresource>
+</RCC>
